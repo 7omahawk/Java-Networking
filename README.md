@@ -10,4 +10,4 @@ The workspace contains `src` folder by default, where:
 
 ## Contact
 
-If you have any questions, feedback, or inquiries regarding to post and get method code, please contact our team at [ahulr.official@gmail.com].
+If you have any questions, feedback, or inquiries regarding to post and get method code, please contact me at [ahulr.official@gmail.com].
