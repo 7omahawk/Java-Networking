@@ -1,18 +1,13 @@
-## Getting Started
+## Java Post & Get method
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The get and post method programming of computer networking using Java programming language.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains `src` folder by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources of post and get method program using Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Contact
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+If you have any questions, feedback, or inquiries regarding to post and get method code, please contact our team at [ahulr.official@gmail.com].
